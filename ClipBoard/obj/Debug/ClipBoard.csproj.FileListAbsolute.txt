@@ -1,0 +1,10 @@
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\bin\Debug\ClipBoard.exe.config
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\bin\Debug\ClipBoard.exe
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\bin\Debug\ClipBoard.pdb
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.csprojAssemblyReference.cache
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.Form1.resources
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.Properties.Resources.resources
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.csproj.GenerateResource.cache
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.csproj.CoreCompileInputs.cache
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.exe
+C:\Users\lx3\source\repos\ClipBoard\ClipBoard\obj\Debug\ClipBoard.pdb
